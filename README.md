@@ -7,5 +7,6 @@ The simple project is a perfect
  example of how animations 
 can be made easily and quickly.
  I have used 
- <marquee> tag for creating 
+ <marquee> 
+tag for creating 
 this simple animation. 
