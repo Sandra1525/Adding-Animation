@@ -8,4 +8,5 @@ The simple project is a perfect
 can be made easily and quickly.
  Look out for the use of
  <marquee> tag for creating 
-this simple animation. Try adding more objects and making them move in different directions for more fun. 
+this simple animation. 
+Try adding more objects and making them move in different directions for more fun. 
