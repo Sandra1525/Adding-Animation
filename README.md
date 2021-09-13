@@ -6,6 +6,6 @@ In this project
 The simple project is a perfect
  example of how animations 
 can be made easily and quickly.
- use of
+ I have used 
  <marquee> tag for creating 
 this simple animation. 
