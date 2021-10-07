@@ -5,8 +5,7 @@ I created a simple page,where a car will
 The simple project is a perfect
  example of how animations 
 can be made easily and quickly.
- I have used 
- <marquee> 
+ I have used <marquee> 
 tag for creating 
 this
  simple animation. 
