@@ -9,4 +9,5 @@ The simple project is a perfect
 can be made easily and quickly.
  I have used <marquee> 
 tag for creating 
-this simple animation. 
+this simple 
+ animation. 
