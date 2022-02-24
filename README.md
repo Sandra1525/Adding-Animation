@@ -1,5 +1,5 @@
 # Adding-Animation
-In 
+In
 this project
 I created a simple p
 age,where a car will
@@ -7,7 +7,7 @@ age,where a car will
 The simple project is a perfect
  example of how animations 
 can be made easily and quickly.
- I have used <marquee> 
+ I have   used <marquee> 
 tag for creating 
 this simple 
  animation. 
